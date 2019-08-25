@@ -1,0 +1,18 @@
+"Brothers Gang Bg"
+
+
+$ pkg install python2-dev python2 git -y
+
+$ apt install python2
+
+$ apt install git
+
+$ pip2 install mechanize
+
+$ pip2 install requests
+
+$git clone https://github.com/BROTHERS-GANG-BG/bg
+
+$ cd bg
+
+$ python2 bg.py
